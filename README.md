@@ -8,6 +8,7 @@ Hier liegen nur die Installationsdateien – kein Quellcode.
 | Software | Für | Ordner |
 |---|---|---|
 | **Portiva KI-Transkribierung** + **Portiva Diktat für Word** | Android-Handy, Windows-PC | [📁 KI-Transkribierung](KI-Transkribierung/) |
+| Vorlagen (Briefkopf, Logo) | Word | [📁 Vorlagen](Vorlagen/) |
 
 Jeder Ordner zeigt die aktuelle Version mit direkten Download-Links und Installationshinweisen.
 Die Dateien selbst hängen an den [Releases](https://github.com/Schnielz87/Portiva-Downloads/releases)
