@@ -8,6 +8,7 @@ Hier liegen nur die Installationsdateien – kein Quellcode.
 | Software | Für | Ordner |
 |---|---|---|
 | **Portiva KI-Transkribierung** + **Portiva Diktat für Word** | Android-Handy, Windows-PC | [📁 KI-Transkribierung](KI-Transkribierung/) |
+| **Portiva Web-Plattform** (Diktate, Akten, Fristen, Sprach-Briefkasten, Rechnungen & Buchhaltung) | Browser – ohne Installation | [📁 Web-Plattform](Web-Plattform/) |
 | Vorlagen (Briefkopf, Logo) | Word | [📁 Vorlagen](Vorlagen/) |
 
 Jeder Ordner zeigt die aktuelle Version mit direkten Download-Links und Installationshinweisen.
@@ -21,6 +22,8 @@ Portiva-Downloads/
 ├── README.md                  ← diese Übersicht
 ├── KI-Transkribierung/        ← Portiva KI-Transkribierung (Android) + Portiva Diktat für Word (Windows)
 │   └── README.md              ← wird bei jedem Build automatisch auf die neue Version gesetzt
+├── Web-Plattform/             ← Portiva Web-Plattform (läuft im Browser): Beschreibung + Handbuch als PDF
+│   └── README.md              ← wird bei jeder Änderung der Plattform automatisch aktualisiert
 └── <Weitere-Software>/        ← neuer Ordner je Programm, Release-Tags mit eigenem Präfix
     └── README.md
 ```
