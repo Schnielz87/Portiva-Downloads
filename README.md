@@ -9,6 +9,7 @@ Hier liegen nur die Installationsdateien – kein Quellcode.
 |---|---|---|
 | **Portiva KI-Transkribierung** + **Portiva Diktat für Word** | Android-Handy, Windows-PC | [📁 KI-Transkribierung](KI-Transkribierung/) |
 | **Portiva Web-Plattform** (Diktate, Akten, Fristen, Sprach-Briefkasten, Rechnungen & Buchhaltung) | Browser – ohne Installation | [📁 Web-Plattform](Web-Plattform/) |
+| **TV-App-Transfer** (Apps auf Samsung-Fernseher und Android-TV-Sticks bringen) | Windows-PC, Android-Handy | [📁 TV-App-Transfer](TV-App-Transfer/) |
 | Vorlagen (Briefkopf, Logo) | Word | [📁 Vorlagen](Vorlagen/) |
 
 Jeder Ordner zeigt die aktuelle Version mit direkten Download-Links und Installationshinweisen.
@@ -22,6 +23,8 @@ Portiva-Downloads/
 ├── README.md                  ← diese Übersicht
 ├── KI-Transkribierung/        ← Portiva KI-Transkribierung (Android) + Portiva Diktat für Word (Windows)
 │   └── README.md              ← wird bei jedem Build automatisch auf die neue Version gesetzt
+├── TV-App-Transfer/           ← TV-App-Transfer (Windows + Android), Tags tv-app-transfer-v1.0.<Lauf>
+│   └── README.md
 ├── Web-Plattform/             ← Portiva Web-Plattform (läuft im Browser): Beschreibung + Handbuch als PDF
 │   └── README.md              ← wird bei jeder Änderung der Plattform automatisch aktualisiert
 └── <Weitere-Software>/        ← neuer Ordner je Programm, Release-Tags mit eigenem Präfix
